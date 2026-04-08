@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-chand19&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-chand19" /> </p>
 
-- 🌱 I’m a **python odoo developer**
+- 🌱 I’m a **python/odoo developer**
 
 - 📫 How to reach me **chandmohit002@gmail.com**
 
